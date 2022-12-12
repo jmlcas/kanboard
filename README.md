@@ -8,3 +8,7 @@ Ver en "localhost:8200"
 Usuario: admin
 
 Password: admin
+
+Ver vídeo: 
+
+[![Alt text](https://img.youtube.com/vi/MkKWIaFzr9Q/0.jpg)](https://www.youtube.com/watch?v=MkKWIaFzr9Q)
